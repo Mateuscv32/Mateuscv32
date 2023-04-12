@@ -7,7 +7,7 @@
 - 📸 Adoro fotografar como Hobby.
 - 🎮 Juntamente com jogar videogame para relaxar. (ironia).
 - 📫 Contatos: 
-  <a href="mailto:mateuscvenancio@gmail.com">mateuscvenancio@gmail.com</a>
+  <a href="mailto:mateuscvenancio@gmail.com">mateuscvenancio@gmail.com</a><br />
   <a href="https://www.linkedin.com/in/mateus-costa-venancio-b465592a/">Linkedin</a>
 
 
